@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-/video-stream-demo/node_modules
+/video-stream-demo/node_modules/*
 dist/
 downloads/
 eggs/
